@@ -1,0 +1,11 @@
+/home/matt/workspace/nifi-ConvertAdifToCabrillo-bundle/nifi-ConvertAdifToCabrillo-processors/src/main/java/no/la1k/adif/ADIFField.java
+/home/matt/workspace/nifi-ConvertAdifToCabrillo-bundle/nifi-ConvertAdifToCabrillo-processors/src/main/java/uk/co/mattcarus/ham/converters/AdifToCabrillo.java
+/home/matt/workspace/nifi-ConvertAdifToCabrillo-bundle/nifi-ConvertAdifToCabrillo-processors/src/main/java/no/la1k/adif/ADIFException.java
+/home/matt/workspace/nifi-ConvertAdifToCabrillo-bundle/nifi-ConvertAdifToCabrillo-processors/src/main/java/no/la1k/adif/ADIFReader.java
+/home/matt/workspace/nifi-ConvertAdifToCabrillo-bundle/nifi-ConvertAdifToCabrillo-processors/src/main/java/uk/co/mattcarus/ham/Qso.java
+/home/matt/workspace/nifi-ConvertAdifToCabrillo-bundle/nifi-ConvertAdifToCabrillo-processors/src/main/java/uk/co/mattcarus/nifi/processors/ConvertAdifToCabrillo/ConvertAdifToCabrilloProcessor.java
+/home/matt/workspace/nifi-ConvertAdifToCabrillo-bundle/nifi-ConvertAdifToCabrillo-processors/src/main/java/no/la1k/adif/App.java
+/home/matt/workspace/nifi-ConvertAdifToCabrillo-bundle/nifi-ConvertAdifToCabrillo-processors/src/main/java/uk/co/mattcarus/ham/fileformat/ADIFFile.java
+/home/matt/workspace/nifi-ConvertAdifToCabrillo-bundle/nifi-ConvertAdifToCabrillo-processors/src/main/java/no/la1k/adif/ADIFRecord.java
+/home/matt/workspace/nifi-ConvertAdifToCabrillo-bundle/nifi-ConvertAdifToCabrillo-processors/src/main/java/no/la1k/adif/ADIFWriter.java
+/home/matt/workspace/nifi-ConvertAdifToCabrillo-bundle/nifi-ConvertAdifToCabrillo-processors/src/main/java/uk/co/mattcarus/ham/fileformat/CabrilloFile.java
